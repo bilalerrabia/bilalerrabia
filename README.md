@@ -42,8 +42,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode,docker" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,postgres,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,bash" /><br>
 </div>
 
 <br/>
@@ -73,7 +73,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/bilalerrabia/badges/large" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/bilalerrabia/badges/large" alt="Codewars Badge"/>
 </div>
 
 <br/>
