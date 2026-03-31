@@ -71,7 +71,6 @@
 <br/><br/>
 
 <hr/>
-
 <div align="center">
   <img src="https://www.codewars.com/users/bilalerrabia/badges/large" alt="Codewars Badge"/>
 </div>
