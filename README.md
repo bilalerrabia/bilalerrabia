@@ -15,10 +15,9 @@
  🌱 I'm currently learning **AI & Machine Learning**
 
  🎓 Student at **1337/UM6P — 42 Network** (AI track)
-[![berrabia's 42 stats](https://badge.mediaplus.ma/levi/berrabia)](https://github.com/oakoudad/badge42)
 💬 Ask me about **AI, ML, Python... or anything [here](https://github.com/bilalerrabia/bilalerrabia/issues)**
 
-⚡ Fun fact **The 42 Network has no teachers — students teach each other everything!**
+[![berrabia's 42 stats](https://badge.mediaplus.ma/water/berrabia)](https://github.com/oakoudad/badge42)
 
 </div>
  
